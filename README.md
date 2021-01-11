@@ -1,7 +1,10 @@
-### Hi there 👋
+### Lucas Santos Gonçalves 👨🏿‍💻
 
 ![Lucas Santos's github stats](https://github-readme-stats.vercel.app/api?username=LucasSG00&show_icons=true&theme=radical&hide_border=true&hide=stars,issues)
 
+# Technologies 💻
+<hr>
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 <!--
 **LucasSG00/LucasSG00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
