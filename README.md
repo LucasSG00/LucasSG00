@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Lucas Santos GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasSG00&show_icons=true&&hide_border=true&theme=radical&hide=stars,issues)
+![Lucas Santos GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasSG00&show_icons=true&&hide_border=true&title_color=37b5a7&bg_color=37b5a7&theme=tokyonight&hide=stars,issues)
 
 <!--
 **LucasSG00/LucasSG00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
