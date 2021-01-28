@@ -1,6 +1,6 @@
 # Lucas Santos Gonçalves 👨🏿‍💻
 
-- 🌱 I’m currently learning <strong>Java, React and Angular</strong>
+- 🌱 I’m currently learning <strong>Java and Angular</strong>
 - 👨🏿‍🎓 I'm majoring in <strong>Systems Analysis at University Senac</strong>
 
 ![Lucas Santos's github stats](https://github-readme-stats.vercel.app/api?username=LucasSG00&show_icons=true&theme=radical&hide_border=true&hide=stars,issues)
